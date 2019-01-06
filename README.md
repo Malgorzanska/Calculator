@@ -8,3 +8,5 @@ Used technologies:
 * **Sass**
 * **Webpack**
 * **JavaScript / ES6**
+
+See the results here: https://malgorzanska.github.io/Calculator/
