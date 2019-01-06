@@ -9,4 +9,4 @@ Used technologies:
 * **Webpack**
 * **JavaScript / ES6**
 
-See the results here: https://malgorzanska.github.io/Calculator/
+See the result here: https://malgorzanska.github.io/Calculator/
